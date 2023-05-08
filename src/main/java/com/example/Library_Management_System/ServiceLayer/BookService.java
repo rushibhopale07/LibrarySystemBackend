@@ -1,5 +1,7 @@
-package com.example.Library_Management_System;
+package com.example.Library_Management_System.ServiceLayer;
 
+import com.example.Library_Management_System.EntityLayer.Book;
+import com.example.Library_Management_System.RepositoryLayer.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

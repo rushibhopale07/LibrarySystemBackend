@@ -1,5 +1,7 @@
-package com.example.Library_Management_System;
+package com.example.Library_Management_System.ControllerLayer;
 
+import com.example.Library_Management_System.EntityLayer.Member;
+import com.example.Library_Management_System.ServiceLayer.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

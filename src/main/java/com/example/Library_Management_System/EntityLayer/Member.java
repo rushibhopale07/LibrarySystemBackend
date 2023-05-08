@@ -1,4 +1,6 @@
-package com.example.Library_Management_System;
+package com.example.Library_Management_System.EntityLayer;
+import com.example.Library_Management_System.Role;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

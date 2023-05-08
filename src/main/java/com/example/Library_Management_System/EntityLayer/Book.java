@@ -1,4 +1,4 @@
-package com.example.Library_Management_System;
+package com.example.Library_Management_System.EntityLayer;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
